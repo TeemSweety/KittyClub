@@ -13,9 +13,7 @@ What Games Do The Kittens Play?
 - Splitgate: The Stray Kitty
 - Rogue Kitty Company
 - Scavengers: Kittys Lost In The City
-
-// ins img
-Coming Soon...
+- More Coming Soon...
 ```
 
 ### Prerequisites
