@@ -18,15 +18,22 @@ What Games Do The Kittens Play?
 
 ### Prerequisites
 
-Coming Soon...
+NOTE: All Are Only Tested On 1903,1909,2004,20H2,21H1.
+
+[Visual C++ Download](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+
+Any Active Anti-Cheats Should Be Closed/Disabled Before Launching The Loader.
 
 ### Downloads
 
-Coming Soon...
+Splitgate: The Stray Kitty  Last Update: 8/8/2021  [Download Release](https://link-to.net/173959/splitkitty)
 
 ### Instructions
 
-Coming Soon...
+1. Open Loader With Administrator Privledges.
+2. Press OK When Prompted With "Launch {GAME NAME}, Right Meow."
+3. Launch The Game, Wait Up To 30 Seconds For A Menu To Appear.
+4. Done Playing? Restart Your PC To Unload Kitty Club Software Fully To Ensure You Are Not Risking Bans In Other Games Unknowingly.
 
 ### Still Need Help?
 
