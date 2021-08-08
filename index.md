@@ -2,6 +2,8 @@
 
 Our software is designed and made by kittens, for kittens. 
 
+To Join The Kitty Warfare Army Join Our [Discord](https://discord.gg/5QqYBEdNfm).
+
 ### Markdown
 
 What Games Do The Kittens Play?
@@ -11,15 +13,15 @@ What Games Do The Kittens Play?
 - Splitgate: The Stray Kitty
 - Rogue Kitty Company
 - Scavengers: Kittys Lost In The City
-[Link](url) and ![Image](src)
+
+// ins img
+Coming Soon...
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Prerequisites
 
-### Jekyll Themes
+Coming Soon...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SwirlyFucks/Kitty-Cord/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Need Help?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ Our Kitty Helpers will assist you with related problems or issues you may run into. [Discord](https://discord.gg/5QqYBEdNfm).
