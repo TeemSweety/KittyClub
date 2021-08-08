@@ -28,6 +28,8 @@ Any Active Anti-Cheats Should Be Closed/Disabled Before Launching The Loader.
 
 Splitgate: The Stray Kitty  -  Last Update: 8/8/2021  -  [Download Release](https://file-link.net/173959/splitkitty)
 
+Fortnut Kitty Royale  -  Last Update: 8/8/2021  -  [Download Release](https://up-to-down.net/173959/KITTYFN)
+
 ### Instructions
 
 1. Open Loader With Administrator Privledges.
