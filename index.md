@@ -26,7 +26,7 @@ Any Active Anti-Cheats Should Be Closed/Disabled Before Launching The Loader.
 
 ### Downloads
 
-Splitgate: The Stray Kitty  -  Last Update: 8/8/2021  -  [Download Release](https://link-to.net/173959/splitkitty)
+Splitgate: The Stray Kitty  -  Last Update: 8/8/2021  -  [Download Release](https://file-link.net/173959/splitkitty)
 
 ### Instructions
 
