@@ -4,11 +4,11 @@ Our Software Is Designed And Made By Kittens, For Kittens.
 
 To Join The Kitty Army Join Our [Discord](https://discord.gg/5QqYBEdNfm).
 
-### Markdown
+### Games
 
 What Games Do The Kittens Play?
 
-```Games:
+```markdown
 - Fortnut Kitty Royale
 - Splitgate: The Stray Kitty
 - Rogue Kitty Company
