@@ -2,7 +2,7 @@
 
 Our Software Is Designed And Made By Kittens, For Kittens. 
 
-To Join The Kitty Warfare Army Join Our [Discord](https://discord.gg/5QqYBEdNfm).
+To Join The Kitty Army Join Our [Discord](https://discord.gg/5QqYBEdNfm).
 
 ### Markdown
 
