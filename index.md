@@ -8,7 +8,7 @@ To Join The Kitty Army Join Our [Discord](https://discord.gg/5QqYBEdNfm).
 
 What Games Do The Kittens Play?
 
-```markdown
+```Games:
 - Fortnut Kitty Royale
 - Splitgate: The Stray Kitty
 - Rogue Kitty Company
