@@ -20,6 +20,14 @@ What Games Do The Kittens Play?
 
 Coming Soon...
 
-### Need Help?
+### Downloads
+
+Coming Soon...
+
+### Instructions
+
+Coming Soon...
+
+### Still Need Help?
 
  Our Kitty Helpers Will Assist You With Related Problems Or Issues You May Run Into Via [Discord](https://discord.gg/5QqYBEdNfm).
