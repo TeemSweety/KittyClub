@@ -22,4 +22,4 @@ Coming Soon...
 
 ### Need Help?
 
- Our Kitty Helpers Will Assist You With Related Problems Or Issues You May Run Into. [Discord](https://discord.gg/5QqYBEdNfm).
+ Our Kitty Helpers Will Assist You With Related Problems Or Issues You May Run Into Via [Discord](https://discord.gg/5QqYBEdNfm).
