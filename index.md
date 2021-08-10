@@ -10,6 +10,7 @@ What Games Do The Kittens Play?
 
 ```markdown
 - Fortnut Kitty Royale
+- POLYGON: The Last Kitten
 - Splitgate: The Stray Kitty
 - Rogue Kitty Company
 - Scavengers: Kittys Lost In The City
@@ -29,6 +30,8 @@ Any Active Anti-Cheats Should Be Closed/Disabled Before Launching The Loader.
 Splitgate: The Stray Kitty  -  Last Update: 8/8/2021  -  [Download Release](https://file-link.net/173959/splitkitty)
 
 Fortnut Kitty Royale  -  Last Update: 8/8/2021  -  [Download Release](https://up-to-down.net/173959/KITTYFN)
+
+POLYGON: The Last Kitten  -  Last Update: 8/10/2021  -  [Download Release](https://up-to-down.net/173959/PolyCat)
 
 ### Instructions
 
