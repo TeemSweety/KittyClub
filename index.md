@@ -33,9 +33,10 @@ Fortnut Kitty Royale  -  Last Update: 8/8/2021  -  [Download Release](https://up
 ### Instructions
 
 1. Open Loader With Administrator Privledges.
-2. Press OK When Prompted With "Launch {GAME NAME}, Right Meow."
-3. Launch The Game, Wait Up To 30 Seconds For A Menu To Appear.
-4. Done Playing? Restart Your PC To Unload Kitty Club Software Fully To Ensure You Are Not Risking Bans In Other Games Unknowingly.
+2. Press OK When Prompted With "Launch {GAME NAME}, Right Meow".
+3. Launch The Game.
+4. Press F2 When In The Lobby Of The Game.
+5. Done Playing? Restart Your PC To Unload Kitty Club Software Fully To Ensure You Are Not Risking Bans In Other Games Unknowingly.
 
 ### Still Need Help?
 
