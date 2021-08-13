@@ -33,6 +33,8 @@ Fortnut Kitty Royale  -  Last Update: 8/8/2021  -  [Download Release](https://up
 
 POLYGON: The Last Kitten  -  Last Update: 8/10/2021  -  [Download Release](https://up-to-down.net/173959/PolyCat)
 
+Rogue Kitty Company BETA -  Last Update: 8/13/2021  -  [Download Release](https://up-to-down.net/173959/KittyCompany)
+
 ### Instructions
 
 1. Open Loader With Administrator Privledges.
